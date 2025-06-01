@@ -4,7 +4,7 @@ An advanced web-based income tax calculator that provides detailed estimates for
 
 ## 🚀 Live Demo
 
-[Calculate Your Tax Now](https://immortaleyes.github.io/income-tax-calculator)
+[Calculate Your Tax Now]([https://immortaleyes.github.io/income-tax-calculator](https://github.com/immortaleyes/Income-Tax-Calculator--2024-2026/blob/main/index.html)
 
 ## ✨ Core Features
 
